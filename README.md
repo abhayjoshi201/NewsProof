@@ -1,4 +1,4 @@
-# NewsProofWeb App
+# NewsProof Web App
 
 This is a web application called FakeNews, which is designed to detect and classify fake news articles. The app is built using Flask, a Python web framework, and utilizes a machine learning model trained on four different algorithms to achieve an accuracy of approximately 94%. The model uses four features to classify news articles as either real or fake.
 
